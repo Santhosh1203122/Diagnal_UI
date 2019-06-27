@@ -14,7 +14,6 @@
     "redux": "^4.0.1",
     "redux-saga": "^1.0.3"
   },
-  git remote add origin https://santhosh1203122:Sid_080615@github.com/santhosh1203122/Diagnal_UI.git
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
