@@ -2,6 +2,7 @@
   "name": "ui",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Santhosh1203122.github.io/Diagnal_UI",
   "dependencies": {
     "axios": "^0.19.0",
     "node-sass": "^4.12.0",
@@ -13,11 +14,14 @@
     "redux": "^4.0.1",
     "redux-saga": "^1.0.3"
   },
+  git remote add origin https://santhosh1203122:Sid_080615@github.com/santhosh1203122/Diagnal_UI.git
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
