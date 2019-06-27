@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Diagnal_UI/build/static/css/main.6f37c306.chunk.css",
-    "main.js": "/Diagnal_UI/build/static/js/main.e5fe1000.chunk.js",
-    "main.js.map": "/Diagnal_UI/build/static/js/main.e5fe1000.chunk.js.map",
-    "runtime~main.js": "/Diagnal_UI/build/static/js/runtime~main.10aeb22b.js",
-    "runtime~main.js.map": "/Diagnal_UI/build/static/js/runtime~main.10aeb22b.js.map",
-    "static/js/2.9cc7fb44.chunk.js": "/Diagnal_UI/build/static/js/2.9cc7fb44.chunk.js",
-    "static/js/2.9cc7fb44.chunk.js.map": "/Diagnal_UI/build/static/js/2.9cc7fb44.chunk.js.map",
-    "index.html": "/Diagnal_UI/build/index.html",
-    "precache-manifest.68dcd624fbec67367211c5860b5da327.js": "/Diagnal_UI/build/precache-manifest.68dcd624fbec67367211c5860b5da327.js",
-    "service-worker.js": "/Diagnal_UI/build/service-worker.js",
-    "static/css/main.6f37c306.chunk.css.map": "/Diagnal_UI/build/static/css/main.6f37c306.chunk.css.map",
-    "static/media/logo.svg": "/Diagnal_UI/build/static/media/logo.5d5d9eef.svg",
-    "static/media/poster1.jpg": "/Diagnal_UI/build/static/media/poster1.d5f2a7f4.jpg"
+    "main.css": "/Diagnal_UI/static/css/main.6f37c306.chunk.css",
+    "main.js": "/Diagnal_UI/static/js/main.e5fe1000.chunk.js",
+    "main.js.map": "/Diagnal_UI/static/js/main.e5fe1000.chunk.js.map",
+    "runtime~main.js": "/Diagnal_UI/static/js/runtime~main.fcdbcaf7.js",
+    "runtime~main.js.map": "/Diagnal_UI/static/js/runtime~main.fcdbcaf7.js.map",
+    "static/js/2.9cc7fb44.chunk.js": "/Diagnal_UI/static/js/2.9cc7fb44.chunk.js",
+    "static/js/2.9cc7fb44.chunk.js.map": "/Diagnal_UI/static/js/2.9cc7fb44.chunk.js.map",
+    "index.html": "/Diagnal_UI/index.html",
+    "precache-manifest.a58f6746f63ffeb11e2132f96d8ece41.js": "/Diagnal_UI/precache-manifest.a58f6746f63ffeb11e2132f96d8ece41.js",
+    "service-worker.js": "/Diagnal_UI/service-worker.js",
+    "static/css/main.6f37c306.chunk.css.map": "/Diagnal_UI/static/css/main.6f37c306.chunk.css.map",
+    "static/media/logo.svg": "/Diagnal_UI/static/media/logo.5d5d9eef.svg",
+    "static/media/poster1.jpg": "/Diagnal_UI/static/media/poster1.d5f2a7f4.jpg"
   }
 }
